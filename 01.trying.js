@@ -1,4 +1,4 @@
-import * as THREE from 'https://raw.githubusercontent.com/andersontan523/Lib/main/libs/three/three.module.js';
+
 import { OrbitControls } from 'https://raw.githubusercontent.com/andersontan523/Lib/main/libs/three/jsm/OrbitControls.js';
 import { GLTFLoader } from 'https://raw.githubusercontent.com/andersontan523/Lib/main/libs/three/jsm/GLTFLoader.js';
 import { Stats } from 'https://raw.githubusercontent.com/andersontan523/Lib/main/libs/stats.module.js';
